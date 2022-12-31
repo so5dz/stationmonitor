@@ -1,0 +1,13 @@
+{
+	"redis": {
+		"host": "localhost",
+		"port": 6379
+	},
+	"aprsis": {
+		"host": "euro.aprs2.net",
+		"port": 14580,
+		"user": "SO5DZ",
+		"pass": -1,
+		"filter": "p/SR"
+	}
+}

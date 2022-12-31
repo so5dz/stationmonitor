@@ -1,0 +1,6 @@
+github.com/so5dz/aprsis v0.1.0 h1:Bse5A16dercU7WVYVUUCVWsYQ+qiKangBob/C47qwwI=
+github.com/so5dz/aprsis v0.1.0/go.mod h1:o+PutMbIA7Nm5uot+i6NFtK4deodu/VrHjUoN5stQpc=
+github.com/so5dz/ax25 v0.0.1 h1:ltzwMoPDskbfASC8jXY9SQqgqhzj5nfpJC0jL5T5+Kc=
+github.com/so5dz/ax25 v0.0.1/go.mod h1:l2+b5e9VyiR0ZWu9ArKBTRquG0PBFIiYIjOR+E8jiXU=
+github.com/so5dz/utils v0.2.0 h1:Y+fjLoZ3goXoIj/H9otESTq8YVwSngZH3ww+Vs5sfqs=
+github.com/so5dz/utils v0.2.0/go.mod h1:cqCMxkhKHVRKZwYcNwMD9pFMq9IHkQ5swaszjAjXX3Q=
